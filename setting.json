@@ -1,0 +1,47 @@
+{
+    "TOKEN": "Njk5MTMzNzMzMzc0MDAxMTY0.XpP9IA.3QsI3Srat_JuYBTDs0u3JyQYhSs",
+    "Welcome_channel": "699203987597164595",
+    "Left_channel": "699204129406451762",
+    "time": "1303",
+    "pic": [
+        "D:\\DISBOT\\img\\bg.jpeg",
+        "D:\\DISBOT\\img\\icon.png"
+    ],
+    "url_pic": [
+        "https://media.dnd.wizards.com/styles/story_banner/public/head-banner/XqiIB8aLLC.jpg",
+        "https://media.dnd.wizards.com/styles/story_banner/public/images/head-banner/DwndXrFVr8.jpg"
+    ],
+    "keyword": [
+        "start"
+    ],
+    "chkeyword": [
+        "\u958b\u59cb"
+    ],
+    "boss": [
+        "Zombie",
+        "Dragon",
+        "Orc"
+    ],
+    "Zombie": [
+        500,
+        "me"
+    ],
+    "Dragon": [
+        11110,
+        "me"
+    ],
+    "Orc": [
+        1000,
+        "me"
+    ],
+    "player": [
+        {
+            "Name": "AmebaSr",
+            "num": 0
+        },
+        {
+            "Name": "Lulu",
+            "num": 10
+        }
+    ]
+}
